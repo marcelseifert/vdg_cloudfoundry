@@ -1,0 +1,6 @@
+---
+applications:
+- name: vdg-rest
+  memory: 1GB
+
+...
